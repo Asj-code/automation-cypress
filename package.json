@@ -1,0 +1,27 @@
+{
+  "name": "store-automation",
+  "version": "1.0.0",
+  "description": "automation of a clothes store",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asj-code/store-automation-cypress.git"
+  },
+  "keywords": [
+    "qa",
+    "cypress",
+    "automation"
+  ],
+  "author": "Andrea juarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asj-code/store-automation-cypress/issues"
+  },
+  "homepage": "https://github.com/Asj-code/store-automation-cypress#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
